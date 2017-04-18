@@ -1,6 +1,6 @@
 # Example of [BlogoText](https://github.com/BlogoText/blogotext) addon for developers
-Addons are available on [BlogoText/blogotext-addons](https://github.com/BlogoText/blogotext-addons)
-Some documentation are available on [the BlogoText wiki](https://github.com/BlogoText/blogotext/wiki)
+Addons are available on [BlogoText/blogotext-addons](https://github.com/BlogoText/blogotext-addons)      
+Some documentation are available on [the BlogoText wiki](https://github.com/BlogoText/blogotext/wiki)      
 About [contributing](https://github.com/BlogoText/blogotext/wiki/Contributing)
 
 ---
